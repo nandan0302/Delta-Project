@@ -206,3 +206,5 @@ This is an independent educational project inspired by vacation rental platforms
 ## Author
 
 Full-stack web development project built to practise frontend development, backend development, database integration, authentication, and application design.
+
+Practicing collaboration
